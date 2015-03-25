@@ -12,6 +12,10 @@
 			"type": "widget"
 		},
 		{
+			"id": "Widget/button",
+			"type": "widget"
+		},
+		{
 			"id": "default",
 			"type": "theme"
 		},
