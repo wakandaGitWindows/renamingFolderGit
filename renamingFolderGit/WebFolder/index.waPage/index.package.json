@@ -1,7 +1,16 @@
-﻿{
+{
 	"name": "renamingFolderGit/index.waPage/index.html",
 	"version": "1.0.0",
 	"loadDependencies": [
+		{
+			"id": "Desktop_Core",
+			"version": "1.0.0",
+			"type": "core"
+		},
+		{
+			"id": "Widget/dataGrid",
+			"type": "widget"
+		},
 		{
 			"id": "default",
 			"type": "theme"
